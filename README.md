@@ -7,6 +7,6 @@
 - Calcula e Imprime a Nota Geral dos alunos
 - Imprime o Conceito Geral das Notas
 
-![image-20210116130234843](C:\Users\th\AppData\Roaming\Typora\typora-user-images\image-20210116130234843.png)
+![](C:\Users\th\Documents\_program\projects\.net\Revisao.NET\terminal.png)
 
 Terminal utilizado: Hyper
