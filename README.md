@@ -7,6 +7,6 @@
 - Calcula e Imprime a Nota Geral dos alunos
 - Imprime o Conceito Geral das Notas
 
-https://github.com/tayhsn/Revisao.NET/blob/main/terminal.png?raw=true
+<img src="https://github.com/tayhsn/Revisao.NET/blob/main/terminal.png?raw=true">
 
 Terminal utilizado: Hyper
